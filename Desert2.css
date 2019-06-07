@@ -1,0 +1,41 @@
+.desert-life {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  object-fit: cover;
+
+
+}
+
+.landscape {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  object-fit: cover;
+
+}
+.plant-life{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  object-fit: cover;
+
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  padding: 5px;
+  border: 3px solid black;
+  margin: 2px;
+
+}
+
+h1{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
